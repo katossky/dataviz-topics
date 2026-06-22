@@ -1,8 +1,10 @@
 name: Publish site
 
+# Auto-deploy on push is DISABLED while GitHub Actions is blocked (account billing).
+# Until then, publish locally with `./tools/publish.sh` (pushes to the gh-pages branch).
+# Once Actions is unblocked: re-add `push: { branches: [main] }` here and switch
+# Pages source back to "GitHub Actions".
 on:
-  push:
-    branches: [main]
   workflow_dispatch:
 
 permissions:
