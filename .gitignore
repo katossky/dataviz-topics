@@ -1,0 +1,24 @@
+# Quarto render outputs
+/_book/
+.quarto/
+*_files/
+*_cache/
+/site_libs/
+
+# Generated slide decks (rendered from source, not versioned)
+chapters/**/slides.html
+
+# Test artefacts
+tests/fixtures/**/*.html
+
+# R / Python
+.Rproj.user/
+.Rhistory
+.RData
+.venv/
+__pycache__/
+
+# OS
+.DS_Store
+
+/.quarto/

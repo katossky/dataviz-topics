@@ -1,0 +1,8 @@
+---
+title: "Slide-mechanism fixture (slides output)"
+format:
+  revealjs:
+    embed-resources: true
+---
+
+{{< include _body.qmd >}}

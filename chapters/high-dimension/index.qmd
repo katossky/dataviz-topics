@@ -1,0 +1,5 @@
+# High-dimensional data
+
+[{{< fa display >}} View as slides](slides.html){.btn .btn-outline-primary .btn-sm target="_blank"}
+
+{{< include _body.qmd >}}

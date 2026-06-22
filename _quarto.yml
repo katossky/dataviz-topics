@@ -1,0 +1,33 @@
+project:
+  type: book
+  output-dir: _book
+
+book:
+  title: "Data Visualisation with ggplot2"
+  author: "Arthur Katossky"
+  search: true
+  chapters:
+    - index.qmd
+    - part: "Foundations"
+      chapters:
+        - chapters/intro/index.qmd
+        - chapters/grammar/index.qmd
+        - chapters/perception/index.qmd
+        - chapters/color/index.qmd
+    - part: "Beyond the basics"
+      chapters:
+        - chapters/uncertainty/index.qmd
+        - chapters/high-dimension/index.qmd
+        - chapters/cartography/index.qmd
+        - chapters/networks/index.qmd
+    - part: "Communicating"
+      chapters:
+        - chapters/dashboards/index.qmd
+        - chapters/reception/index.qmd
+        - chapters/animation/index.qmd
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+    code-link: true

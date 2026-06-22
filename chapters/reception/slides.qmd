@@ -1,0 +1,11 @@
+---
+title: "Reception & performativity"
+subtitle: "Data Visualisation with `ggplot2`"
+author: "Arthur Katossky"
+format:
+  revealjs:
+    embed-resources: true
+    slide-number: true
+---
+
+{{< include _body.qmd >}}

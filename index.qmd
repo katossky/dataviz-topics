@@ -1,0 +1,6 @@
+# Welcome {.unnumbered}
+
+This is the book version of Arthur Katossky's *Data Visualisation with `ggplot2`* course.
+
+Each chapter is written as prose with exercises; the matching slide deck is generated
+from the same source.

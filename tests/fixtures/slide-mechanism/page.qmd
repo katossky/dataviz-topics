@@ -1,0 +1,6 @@
+---
+title: "Slide-mechanism fixture (book output)"
+format: html
+---
+
+{{< include _body.qmd >}}

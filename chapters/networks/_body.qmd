@@ -1,0 +1,8 @@
+::: {.content-hidden when-format="revealjs"}
+*Chapter to be written.* This stub renders so the book and slide pipelines build
+end-to-end; content will be migrated from the existing material.
+:::
+
+::: {.content-visible when-format="revealjs"}
+- *Slides to be written*
+:::

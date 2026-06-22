@@ -1,0 +1,26 @@
+## Section one
+
+::: {.content-hidden when-format="revealjs"}
+BOOKONLY_MARKER — flowing prose that belongs in the book, not on a slide.
+:::
+
+::: {.content-visible when-format="revealjs"}
+- SLIDEONLY_MARKER — a terse bullet for the deck
+:::
+
+Shared content runs identically in both outputs:
+
+```{r}
+#| echo: true
+40 + 2
+```
+
+## Section two
+
+::: {.content-visible when-format="revealjs"}
+- SLIDEONLY_MARKER again
+:::
+
+::: {.content-hidden when-format="revealjs"}
+BOOKONLY_MARKER again — full explanation reserved for the book.
+:::
