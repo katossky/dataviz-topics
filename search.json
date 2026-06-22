@@ -1,0 +1,133 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Data Visualisation with ggplot2",
+    "section": "",
+    "text": "Welcome\nThis is the book version of Arthur Katossky’s Data Visualisation with ggplot2 course.\nEach chapter is written as prose with exercises; the matching slide deck is generated from the same source.",
+    "crumbs": [
+      "Welcome"
+    ]
+  },
+  {
+    "objectID": "chapters/intro/index.html",
+    "href": "chapters/intro/index.html",
+    "title": "1  Introduction",
+    "section": "",
+    "text": "{{&lt; fa display &gt;}} View as slides\nChapter to be written. This stub renders so the book and slide pipelines build end-to-end; content will be migrated from the existing material.",
+    "crumbs": [
+      "Foundations",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introduction</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/grammar/index.html",
+    "href": "chapters/grammar/index.html",
+    "title": "2  The grammar of graphics",
+    "section": "",
+    "text": "{{&lt; fa display &gt;}} View as slides\nChapter to be written. This stub renders so the book and slide pipelines build end-to-end; content will be migrated from the existing material.",
+    "crumbs": [
+      "Foundations",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>The grammar of graphics</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/perception/index.html",
+    "href": "chapters/perception/index.html",
+    "title": "3  Perception & visual encoding",
+    "section": "",
+    "text": "{{&lt; fa display &gt;}} View as slides\nChapter to be written. This stub renders so the book and slide pipelines build end-to-end; content will be migrated from the existing material.",
+    "crumbs": [
+      "Foundations",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Perception & visual encoding</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/color/index.html",
+    "href": "chapters/color/index.html",
+    "title": "4  Colour",
+    "section": "",
+    "text": "{{&lt; fa display &gt;}} View as slides\nChapter to be written. This stub renders so the book and slide pipelines build end-to-end; content will be migrated from the existing material.",
+    "crumbs": [
+      "Foundations",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Colour</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/uncertainty/index.html",
+    "href": "chapters/uncertainty/index.html",
+    "title": "5  Visualising uncertainty",
+    "section": "",
+    "text": "{{&lt; fa display &gt;}} View as slides\nChapter to be written. This stub renders so the book and slide pipelines build end-to-end; content will be migrated from the existing material.",
+    "crumbs": [
+      "Beyond the basics",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Visualising uncertainty</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/high-dimension/index.html",
+    "href": "chapters/high-dimension/index.html",
+    "title": "6  High-dimensional data",
+    "section": "",
+    "text": "{{&lt; fa display &gt;}} View as slides\nChapter to be written. This stub renders so the book and slide pipelines build end-to-end; content will be migrated from the existing material.",
+    "crumbs": [
+      "Beyond the basics",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>High-dimensional data</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/cartography/index.html",
+    "href": "chapters/cartography/index.html",
+    "title": "7  Cartography",
+    "section": "",
+    "text": "{{&lt; fa display &gt;}} View as slides\nChapter to be written. This stub renders so the book and slide pipelines build end-to-end; content will be migrated from the existing material.",
+    "crumbs": [
+      "Beyond the basics",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Cartography</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/networks/index.html",
+    "href": "chapters/networks/index.html",
+    "title": "8  Networks",
+    "section": "",
+    "text": "{{&lt; fa display &gt;}} View as slides\nChapter to be written. This stub renders so the book and slide pipelines build end-to-end; content will be migrated from the existing material.",
+    "crumbs": [
+      "Beyond the basics",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Networks</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/dashboards/index.html",
+    "href": "chapters/dashboards/index.html",
+    "title": "9  Dashboards",
+    "section": "",
+    "text": "{{&lt; fa display &gt;}} View as slides\nChapter to be written. This stub renders so the book and slide pipelines build end-to-end; content will be migrated from the existing material.",
+    "crumbs": [
+      "Communicating",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Dashboards</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/reception/index.html",
+    "href": "chapters/reception/index.html",
+    "title": "10  Reception & performativity",
+    "section": "",
+    "text": "{{&lt; fa display &gt;}} View as slides\nChapter to be written. This stub renders so the book and slide pipelines build end-to-end; content will be migrated from the existing material.",
+    "crumbs": [
+      "Communicating",
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Reception & performativity</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/animation/index.html",
+    "href": "chapters/animation/index.html",
+    "title": "11  Animation",
+    "section": "",
+    "text": "{{&lt; fa display &gt;}} View as slides\nChapter to be written. This stub renders so the book and slide pipelines build end-to-end; content will be migrated from the existing material.",
+    "crumbs": [
+      "Communicating",
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Animation</span>"
+    ]
+  }
+]
